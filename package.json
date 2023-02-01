@@ -1,0 +1,19 @@
+{
+  "name": "blogassets",
+  "version": "1.0.0",
+  "description": "Blog assets for ZianTT's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZianTT/BlogAssets.git"
+  },
+  "author": "ZianTT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZianTT/BlogAssets/issues"
+  },
+  "homepage": "https://github.com/ZianTT/BlogAssets#readme"
+}
