@@ -1,6 +1,6 @@
 {
-  "name": "blogassets",
-  "version": "1.0.0",
+  "name": "ziantt-blog-assets",
+  "version": "1.0.6",
   "description": "Blog assets for ZianTT's Blog",
   "main": "index.js",
   "scripts": {
